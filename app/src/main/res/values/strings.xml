@@ -3,4 +3,8 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="EmptyToDo">Your to do list is empty, create a new one</string>
+    <string name="Priority">Priority</string>
+    <string name="HighPriority">High</string>
+    <string name="MediumPriority">Medium</string>
+    <string name="LowPriority">Low</string>
 </resources>

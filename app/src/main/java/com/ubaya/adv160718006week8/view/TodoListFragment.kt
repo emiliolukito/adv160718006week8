@@ -70,6 +70,7 @@ class TodoListFragment : Fragment() {
 
     fun doClick(item:Any)
     {
-        viewModel.clearTask(item as Todo)
+        var item2 = item as Todo
+        viewModel.isDone(item2.uuid)
     }
 }

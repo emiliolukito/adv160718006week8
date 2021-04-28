@@ -7,4 +7,6 @@
     <string name="HighPriority">High</string>
     <string name="MediumPriority">Medium</string>
     <string name="LowPriority">Low</string>
+    <string name="EditToDo">Edit To Do</string>
+    <string name="SaveChanges">Save Changes</string>
 </resources>
